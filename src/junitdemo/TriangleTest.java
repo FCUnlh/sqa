@@ -10,7 +10,7 @@ public class TriangleTest {
 	
 	@Before
 	public void setup() {
-		regular = "regular triangle";
+		regular = "regular triangle"; 
 		triangle = "triangle";
 		rightAngle = "right-angled triangle";
 		notTriangle = "not a triangle";
